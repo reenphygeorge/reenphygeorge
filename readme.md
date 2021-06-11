@@ -5,6 +5,6 @@
 - 📬 Feel free to <a target="blank" href="mailto:reenphygeorge@gmail.com">contact me</a><br>
 
 <h3 align="left">Find me on</h3>
-<a target="blank" href="https://www.linkedin.com/in/reenphygeorge/"><img src="Assets/linkedin.svg"></a> &nbsp;
+<a href="https://www.linkedin.com/in/reenphygeorge/" target="blank" ><img src="Assets/linkedin.svg"></a> &nbsp;
 <a target="blank" href="https://twitter.com/reenphygeorge"><img src="Assets/twitter.svg"></a> &nbsp;
 <a target="blank" href="https://reenphygeorge.github.io/portfolio/"><img src="Assets/website.svg"></a>
