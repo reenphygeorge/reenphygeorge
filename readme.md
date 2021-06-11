@@ -1,12 +1,10 @@
-<h1 align="center">Hey there 👋, I'm Reenphy George</h1>
-<h3 align="center">An Aspiring Web Developer</h3>
+<h2 align="left">Hey there 👋, It's Reenphy George &nbsp;
+<img align="right"src="https://komarev.com/ghpvc/?username=reenphygeorge&label=Spectators%20%F0%9F%91%80&color=3c8cbd&style=flat" alt="reenphygeorge" /></h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=reenphygeorge&label=Spectators%20%F0%9F%91%80&color=0e75b6&style=flat" alt="reenphygeorge" /> </p>
+- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 📬 How to reach me: <a href="mailto:reenphygeorge@gmail.com">Reach out</a><br>
 
-- 🌱 I’m currently learning **Data Structures and Algorithm with Java**
-
-- 👨‍💻 All of my projects are available at [https://reenphygeorge.github.io/portfolio/](https://reenphygeorge.github.io/portfolio/)
-
-- 📫 How to reach me **reenphygeorge@gmail.com**
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=reenphygeorge&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="reenphygeorge" /></p>
+<h2 align="left">Find me on</h2>
+<a href="https://www.linkedin.com/in/reenphygeorge/"><img src="Assets/linkedin.svg"></a> &nbsp;
+<a href="https://twitter.com/reenphygeorge"><img src="Assets/twitter.svg"></a> &nbsp;
+<a href="https://reenphygeorge.github.io/portfolio/"><img src="Assets/website.svg"></a>
