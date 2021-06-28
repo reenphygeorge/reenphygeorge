@@ -3,6 +3,8 @@
 
 - 🌱 Currently Mastering DSA and Web Dev
 - 📬 Feel free to <a href="mailto:reenphygeorge@gmail.com">contact me</a><br>
+- ⚡  Fun fact: Love to hear fun facts.
+
 
 <h3 align="left">Find me on</h3>
 <a href="https://www.linkedin.com/in/reenphygeorge/"><img src="Assets/linkedin.svg"></a> &nbsp;
