@@ -1,4 +1,4 @@
-<h2 align="left">Hey there, It's me Reenphy 👋🏽</h2>
+<h2 align="left">Hey there, It's me Reenphy 👋🏼</h2>
 
 - 🌱 Currently Mastering DSA and Web Dev
 - 📬 Feel free to <a href="mailto:reenphygeorge@gmail.com">contact me</a><br>
