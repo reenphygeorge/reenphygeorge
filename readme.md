@@ -9,5 +9,3 @@
 <a href="https://www.linkedin.com/in/reenphygeorge/"><img src="Assets/linkedin.svg"></a> &nbsp;
 <a href="https://twitter.com/reenphygeorge"><img src="Assets/twitter.svg"></a> &nbsp;
 <a href="https://reenphygeorge.github.io/portfolio/"><img src="Assets/website.svg"></a>
-
-<p><br>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reenphygeorge&show_icons=true&theme=dark&locale=en" alt="reenphygeorge" /></p>
