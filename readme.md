@@ -5,11 +5,11 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 Currently Mastering DSA and Web Dev
+- **🌱 Currently Mastering DSA and Web Dev**
 
-- 📬 Reach out to me over <a href="mailto:reenphygeorge@gmail.com">here</a><br>
+- **📬 Reach out to me over** <a href="mailto:reenphygeorge@gmail.com"> here</a><br>
 
-- ⚡ Fun fact: Love to hear fun facts.
+- **⚡ Fun fact: Love to hear fun facts.**
 <br/>
 
 ## 📊 My Github Stats
