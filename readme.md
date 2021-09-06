@@ -10,6 +10,4 @@
 <a href="https://twitter.com/reenphygeorge"><img src="Assets/twitter.svg"></a> &nbsp;
 <a href="https://reenphygeorge.github.io/portfolio/"><img src="Assets/website.svg"></a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=reenphygeorge&show_icons=true&theme=dark&locale=en&layout=compact" alt="reenphygeorge" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reenphygeorge&show_icons=true&theme=dark&locale=en" alt="reenphygeorge" /></p>
+<p><br>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reenphygeorge&show_icons=true&theme=dark&locale=en" alt="reenphygeorge" /></p>
