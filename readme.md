@@ -9,7 +9,7 @@
 
 - **📬 Reach out to me over** <a href="mailto:reenphygeorge@gmail.com"> here</a><br>
 
-- **⚡ Fun fact: Love to hear fun facts.**
+- **⚡ Fun fact: Love to explore various linux distros**
 <br/>
 
 ## 📊 My Github Stats
@@ -19,7 +19,7 @@
   <br/>
 <!--   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
 
-## 🔍 Find me on
+## 🔍 Find Me On
 
 <p align="left">
 
