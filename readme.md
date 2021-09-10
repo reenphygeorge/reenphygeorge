@@ -9,7 +9,7 @@
 
 - **📬 Reach out to me over** <a href="mailto:reenphygeorge@gmail.com"> here</a><br>
 
-- **⚡ Fun fact: Love to explore various linux distros**
+- **⚡ Fun fact: Love to explore new linux distros**
 <br/>
 
 ## 📊 My Github Stats
