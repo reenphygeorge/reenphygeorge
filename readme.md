@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- **🌱 Currently Mastering DSA and Web Dev**
+- **🌱 Currently Learning Flutter**
 
 - **📬 Reach out to me over** <a href="mailto:reenphygeorge@gmail.com"> here</a><br>
 
