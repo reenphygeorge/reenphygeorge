@@ -7,7 +7,7 @@
 
 - **🌱 Currently Learning Flutter**
 
-- **📬 Reach out to me over** <a href="mailto:reenphygeorge@gmail.com"> here</a><br>
+- **📬 Reach out: Feel free to** <a href="mailto:reenphygeorge@gmail.com">mail me</a><br>
 
 - **⚡ Fun fact: Love to explore new linux distros**
 <br/>
