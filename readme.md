@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- **🌱 Currently Learning <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"> Flutter & <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"> Dart**
+- **🌱 Currently Learning** <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png">**Flutter &** <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"> **Dart**
 
 - **📬 Reach out: Feel free to** <a href="mailto:reenphygeorge@gmail.com">mail me</a><br>
 
