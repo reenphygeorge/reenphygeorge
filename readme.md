@@ -16,7 +16,34 @@
 
   <a href="https://github.com/reenphygeorge/github-readme-stats"><img alt="Reenphy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=reenphygeorge&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/></a><a href="https://github.com/reenphygeorge/github-readme-stats"><img alt="Reenphy's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reenphygeorge&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
-<!--   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
+  
+## 🛠️ My Skills
+<p align="left">  
+  <img alt="HTML" src="https://img.shields.io/badge/HTML-E34C26?style=for-the-badge&logo=html5&logoColor=white"/>
+  &nbsp; 
+  <img alt="CSS" src="https://img.shields.io/badge/CSS-3C99DC?style=for-the-badge&logo=css3&logoColor=white">
+  &nbsp;
+  <img alt="Bootstrap" src="https://img.shields.io/badge/BOOTSTRAP-3C99DC?style=for-the-badge&logo=bootstrap&logoColor=white">
+  &nbsp; 
+  <img alt="JS" src="https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=white">
+  &nbsp;
+  <img alt="Node" src="https://img.shields.io/badge/NodeJS-68A063?style=for-the-badge&logo=javascript&logoColor=white"> 
+  &nbsp; 
+  <img alt="Express" src="https://img.shields.io/badge/Express-A7AEE1?style=for-the-badge&logo=express&logoColor=white"/>
+  &nbsp;
+  <img alt="MongoDB" src="https://img.shields.io/badge/Mongodb-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  &nbsp;
+  <img alt="C/C++" src="https://img.shields.io/badge/C/C++-0077C4?style=for-the-badge&logo=c&logoColor=white"/>
+  &nbsp;
+  <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
+  &nbsp;
+  <img alt="Java" src="https://img.shields.io/badge/Java-E9672F?style=for-the-badge&logo=java&logoColor=white"/>
+  &nbsp;
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-0077C4?style=for-the-badge&logo=linux&logoColor=white"/>
+  &nbsp;
+  <img alt="Git" src="https://img.shields.io/badge/GIT-E34C26?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+<br/>
 
 ## 🔍 Find Me On
 
