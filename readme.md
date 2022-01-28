@@ -22,7 +22,7 @@
 
 <p align="left">
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-2867B2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/reenphygeorge/)](https://www.linkedin.com/in/reenphygeorge/) 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/reenphygeorge)](https://twitter.com/reenphygeorge)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-bc2a8d?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/reenphygeorge)](https://instagram.com/reenphygeorge)  
+[![Linkedin Badge](https://img.shields.io/badge/Linkedin-2867B2?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/reenphygeorge/)](https://www.linkedin.com/in/reenphygeorge/)&nbsp;
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/reenphygeorge)](https://twitter.com/reenphygeorge)&nbsp;
+[![Instagram Badge](https://img.shields.io/badge/Instagram-bc2a8d?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/reenphygeorge)](https://instagram.com/reenphygeorge)  
 </p>
