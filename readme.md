@@ -23,7 +23,7 @@
   &nbsp; 
   <img alt="CSS" src="https://img.shields.io/badge/CSS-3C99DC?style=for-the-badge&logo=css3&logoColor=white">
   &nbsp;
-  <img alt="Bootstrap" src="https://img.shields.io/badge/BOOTSTRAP-3C99DC?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img alt="Bootstrap" src="https://img.shields.io/badge/BOOTSTRAP-553C7B?style=for-the-badge&logo=bootstrap&logoColor=white">
   &nbsp; 
   <img alt="JS" src="https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=white">
   &nbsp;
