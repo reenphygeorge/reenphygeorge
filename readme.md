@@ -17,7 +17,7 @@
   <a href="https://github.com/reenphygeorge/github-readme-stats"><img alt="Reenphy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=reenphygeorge&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/></a><a href="https://github.com/reenphygeorge/github-readme-stats"><img alt="Reenphy's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reenphygeorge&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   
-## 🛠️ My Skills
+## 🛠️ My Stack
 <p align="left">  
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34C26?style=for-the-badge&logo=html5&logoColor=white"/>
   &nbsp; 
@@ -32,17 +32,7 @@
   <img alt="Express" src="https://img.shields.io/badge/Express-A7AEE1?style=for-the-badge&logo=express&logoColor=white"/>
   &nbsp;
   <img alt="MongoDB" src="https://img.shields.io/badge/Mongodb-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  &nbsp;
-  <img alt="C/C++" src="https://img.shields.io/badge/C/C++-0077C4?style=for-the-badge&logo=c&logoColor=white"/>
-  &nbsp;
-  <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
-  &nbsp;
-  <img alt="Java" src="https://img.shields.io/badge/Java-E9672F?style=for-the-badge&logo=java&logoColor=white"/>
-  &nbsp;
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-0077C4?style=for-the-badge&logo=linux&logoColor=white"/>
-  &nbsp;
-  <img alt="Git" src="https://img.shields.io/badge/GIT-E34C26?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
+  </p>
 <br/>
 
 ## 🔍 Find Me On
