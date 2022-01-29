@@ -27,11 +27,13 @@
   &nbsp; 
   <img alt="JS" src="https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=white">
   &nbsp;
+  <!--
   <img alt="Node" src="https://img.shields.io/badge/NodeJS-68A063?style=for-the-badge&logo=javascript&logoColor=white"> 
   &nbsp; 
   <img alt="Express" src="https://img.shields.io/badge/Express-A7AEE1?style=for-the-badge&logo=express&logoColor=white"/>
   &nbsp;
   <img alt="MongoDB" src="https://img.shields.io/badge/Mongodb-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  -->
   </p>
 <br/>
 
