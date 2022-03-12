@@ -32,6 +32,8 @@
   <img alt="Express" src="https://img.shields.io/badge/Express-A7AEE1?style=for-the-badge&logo=express&logoColor=white"/>
   &nbsp;
   <img alt="MongoDB" src="https://img.shields.io/badge/Mongodb-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  &nbsp;
+  <img alt="Python" src="https://img.shields.io/badge/Python-3C99DC?style=for-the-badge&logo=python&logoColor=white"/>
   </p>
 <br/>
 
