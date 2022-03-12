@@ -16,7 +16,7 @@
 
   <a href="https://github.com/reenphygeorge/github-readme-stats"><img alt="Reenphy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=reenphygeorge&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/></a><a href="https://github.com/reenphygeorge/github-readme-stats"><img alt="Reenphy's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reenphygeorge&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
-<!--
+
 ## 🛠️ My Stack
 <p align="left">  
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34C26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -34,7 +34,7 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/Mongodb-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white"/>
   </p>
 <br/>
--->
+
 
 ## 🔍 Find Me On
 
