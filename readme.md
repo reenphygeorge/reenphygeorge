@@ -1,5 +1,5 @@
 <h1 align="center">Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> It's me Reenphy</h1>
-<h4 align="center">Front-End Dev | Technophile | CS Undergrad</h4><br>
+<h4 align="center">Full-Stack Web Dev | Technophile | CS Undergrad</h4><br>
 
 <a href="#"><img align="right" width="30%" height="auto" src="Assets/Gif.gif" height="30px"/></a>
 
