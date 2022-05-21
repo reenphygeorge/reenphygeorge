@@ -1,8 +1,7 @@
 <h1 align="center">Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> It's me Reenphy</h1>
-<h4 align="center">Full-Stack Web Dev | Technophile | CS Undergrad</h4><br>
+<h6 align="center">Full-Stack Web Dev | Technophile | CS Undergrad</h6><br>
 
-<a href="#"><img align="right" width="30%" height="auto" src="Assets/Gif.gif" height="30px"/></a>
-
+<!-- <a href="#"><img align="right" width="30%" height="auto" src="Assets/Gif.gif" height="30px"/></a> -->
 ## 🙋‍♂️ About Me
 
 - **🌱 Currently mastering Web Dev** <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
