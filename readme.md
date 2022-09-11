@@ -4,9 +4,11 @@
 <!-- <a href="#"><img align="right" width="30%" height="auto" src="Assets/Gif.gif" height="30px"/></a> -->
 ## 🙋‍♂️ About Me
 
+- **🔭 Currently working on [TinkerHub Platform](https://github.com/tinkerhub/platform)**
+
 - **🌱 Currently learning NestJS + TypeScript**
 
-- **📬 Reach out: Feel free to** <a href="mailto:reenphygeorge@gmail.com">mail me</a><br>
+- **📬 Reach out: Feel free to <a href="mailto:reenphygeorge@gmail.com">mail me</a><br>**
 
 - **⚡ Fun fact: Love to explore new linux distros**
 <br/>
@@ -25,6 +27,8 @@
   <img alt="Bootstrap" src="https://img.shields.io/badge/BOOTSTRAP-553C7B?style=for-the-badge&logo=bootstrap&logoColor=white">
   &nbsp; 
   <img alt="JS" src="https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=white">
+  &nbsp;
+  <img alt="TS" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   &nbsp;
   <img alt="Node" src="https://img.shields.io/badge/NodeJS-68A063?style=for-the-badge&logo=javascript&logoColor=white"> 
   &nbsp; 
