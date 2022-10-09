@@ -6,7 +6,7 @@
 
 - **🔭 Currently working on [TinkerHub Platform](https://github.com/tinkerhub/platform)**
 
-- **🌱 Currently learning NestJS + TypeScript**
+- **🌱 Currently learning React + TypeScript**
 
 - **📬 Reach out: Feel free to <a href="mailto:reenphygeorge@gmail.com">mail me</a><br>**
 
