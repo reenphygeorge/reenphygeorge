@@ -43,7 +43,7 @@
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/reenphygeorge/"><img src="https://img.shields.io/badge/-reenphygeorge-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://twitter.com/reenphygeorge"><img src="https://img.shields.io/badge/-@reenphygeorge-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
-<a href="https://instagram.com/reenphygeorge"><img src="https://img.shields.io/badge/-@reenphygeorge-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/reenphygeorge/"><img src="https://img.shields.io/badge/-reenphygeorge-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>&nbsp;&nbsp;
+<a href="https://twitter.com/reenphygeorge"><img src="https://img.shields.io/badge/-@reenphygeorge-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>&nbsp;&nbsp;
+<a href="https://instagram.com/reenphygeorge"><img src="https://img.shields.io/badge/-@reenphygeorge-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>&nbsp;&nbsp;
 </p>
