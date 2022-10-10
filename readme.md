@@ -19,36 +19,31 @@
   <br/>
 
 ## 🛠️ My Stack
-<p align="left">  
-  <img alt="HTML" src="https://img.shields.io/badge/HTML-E34C26?style=for-the-badge&logo=html5&logoColor=white"/>
-  &nbsp; 
-  <img alt="CSS" src="https://img.shields.io/badge/CSS-3C99DC?style=for-the-badge&logo=css3&logoColor=white">
-  &nbsp;
-  <img alt="Bootstrap" src="https://img.shields.io/badge/BOOTSTRAP-553C7B?style=for-the-badge&logo=bootstrap&logoColor=white">
-  &nbsp; 
-  <img alt="JS" src="https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=white">
-  &nbsp;
-  <img alt="TS" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-  &nbsp;
-  <img alt="Node" src="https://img.shields.io/badge/NodeJS-68A063?style=for-the-badge&logo=javascript&logoColor=white"> 
-  &nbsp; 
-  <img alt="MongoDB" src="https://img.shields.io/badge/Mongodb-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  &nbsp;
-  <img alt="Python" src="https://img.shields.io/badge/Python-3C99DC?style=for-the-badge&logo=python&logoColor=white"/>
-  &nbsp;
-  <img alt="Golang" src="https://img.shields.io/badge/Golang-00b3b3?style=for-the-badge&logo=go&logoColor=white"/>
-  &nbsp;
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white"/>
-  &nbsp;
-  </p>
-<br/>
 
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
+![NestJS](https://img.shields.io/badge/-NestJS-05122A?style=flat&logo=nestjs)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![Solidity](https://img.shields.io/badge/-Solidity-05122A?style=flat&logo=solidity)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 
 ## 🔍 Find Me On
 
 <p align="left">
 
-[![Linkedin Badge](https://img.shields.io/badge/Linkedin-2867B2?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/reenphygeorge/)](https://www.linkedin.com/in/reenphygeorge/)&nbsp;
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/reenphygeorge)](https://twitter.com/reenphygeorge)&nbsp;
-[![Instagram Badge](https://img.shields.io/badge/Instagram-bc2a8d?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/reenphygeorge)](https://instagram.com/reenphygeorge)  
+<a href="https://www.linkedin.com/in/reenphygeorge/"><img src="https://img.shields.io/badge/-reenphygeorge-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://twitter.com/reenphygeorge"><img src="https://img.shields.io/badge/-@reenphygeorge-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
+<a href="https://instagram.com/reenphygeorge"><img src="https://img.shields.io/badge/-@reenphygeorge-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
