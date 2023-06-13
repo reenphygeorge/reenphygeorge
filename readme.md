@@ -4,9 +4,9 @@
 <!-- <a href="#"><img align="right" width="30%" height="auto" src="Assets/Gif.gif" height="30px"/></a> -->
 ## 🙋‍♂️ About Me
 
-- **🔭 Currently working on [TinkerHub Platform](https://github.com/tinkerhub/platform)**
+- **🔭 Currently working on something incredible**
 
-- **🌱 Currently learning GoLang**
+- **🌱 Currently learning Golang**
 
 - **📬 Reach out: Feel free to <a href="mailto:reenphygeorge@gmail.com">mail me</a><br>**
 
@@ -27,6 +27,7 @@
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![Golang](https://img.shields.io/badge/-Golang-05122A?style=flat&logo=go)&nbsp;
 ![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
 ![NestJS](https://img.shields.io/badge/-NestJS-05122A?style=flat&logo=nestjs)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -37,12 +38,3 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
-
-## 🔍 Find Me On
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/reenphygeorge/"><img src="https://img.shields.io/badge/-reenphygeorge-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>&nbsp;&nbsp;
-<a href="https://twitter.com/reenphygeorge"><img src="https://img.shields.io/badge/-@reenphygeorge-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>&nbsp;&nbsp;
-<a href="https://instagram.com/reenphygeorge"><img src="https://img.shields.io/badge/-@reenphygeorge-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>&nbsp;&nbsp;
-</p>
