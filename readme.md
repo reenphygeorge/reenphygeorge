@@ -2,12 +2,15 @@
 <h4 align="center" align="center">🧑‍💻 &nbsp;•&nbsp; 🎹 &nbsp;•&nbsp; 🌍</h4>
 <h4 align="center">I love solving problems which I find interesting. Hence I live by the moto: <br/><br/>"Building Products; Solving Problems"</h4><br/>
 
-- 🔭 Currently working on something "GO-istic"
+- 🔭 Currently working on something "**GO-istic**"
 
 - 🌱 Currently learning Golang
 
 - 📬 Reach out: Feel free to <a href="mailto:reenphygeorge@gmail.com">mail me</a><br>
 
-- 💬 Ask me about: Web dev, linux, golang
+- 💬 Ask me about: 
+  - 🕸️ Web Dev
+  - 🐧 Linux 
+  - 🩵 Golang
 
 - ⚡ Fun fact: Love to explore new linux distros
