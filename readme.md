@@ -8,9 +8,10 @@
 
 - 📬 Reach out: Feel free to <a href="mailto:reenphygeorge@gmail.com">mail me</a><br>
 
-- 💬 Ask me about: 
+- 💬 Ask me about:
+
   - 🕸️ Web Dev
-  - 🐧 Linux 
+  - 🐧 Linux & Git
   - 🩵 Golang
 
 - ⚡ Fun fact: Love to explore new linux distros
