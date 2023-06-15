@@ -14,4 +14,4 @@
   - 🐧 Linux & Git
   - 🩵 Golang
 
-- ⚡ Fun fact: Love to explore new linux distros
+- ⚡ Fun fact: I use fedora btw
