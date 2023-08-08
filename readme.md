@@ -2,7 +2,7 @@
 <h4 align="center" align="center">🧑‍💻 &nbsp;•&nbsp; 🎹 &nbsp;•&nbsp; 🌍</h4>
 <h4 align="center">I love solving problems which I find interesting. Hence I tagline myself: <br/><br/>"Building Products; Solving Problems"</h4><br/>
 
-- 🔭 Currently building <a href="https://github.com/nocodb">NocoDB</a><br>
+- 🔭 Currently building <a href="https://github.com/nocodb">NocoDB</a> & <a href="https://github.com/DarkPhoenix2704/fossfolio">Fossfolio</a><br/>
 
 - 🌱 Currently learning Vue & Nuxt
 
