@@ -2,9 +2,9 @@
 <h4 align="center" align="center">🧑‍💻 &nbsp;•&nbsp; 🎹 &nbsp;•&nbsp; 🌍</h4>
 <h4 align="center">I love solving problems which I find interesting. Hence I tagline myself: <br/><br/>"Building Products; Solving Problems"</h4><br/>
 
-- 🔭 Currently working on something "**GO-istic**"
+- 🔭 Currently building <a href="https://github.com/nocodb">NocoDB</a><br>
 
-- 🌱 Currently learning Golang
+- 🌱 Currently learning Vue & Nuxt
 
 - 📬 Reach out: Feel free to <a href="mailto:reenphygeorge@gmail.com">mail me</a><br>
 
@@ -12,6 +12,6 @@
 
   - 🕸️ Web Dev
   - 🐧 Linux & Git
-  - 🩵 Golang
+  - 💙 Golang
 
 - ⚡ Fun fact: I use fedora btw
