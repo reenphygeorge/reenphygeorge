@@ -14,4 +14,4 @@
   - 🐧 Linux & Git
   - 💙 Golang
 
-- ⚡ Fun fact: I use fedora btw
+- ⚡ Fun fact: I use Debian btw
