@@ -2,8 +2,10 @@
 <h4 align="center" align="center">🧑‍💻 &nbsp;•&nbsp; 🎹 &nbsp;•&nbsp; 🌍</h4>
 <h4 align="center">I love solving problems which I find interesting. Hence I tagline myself: <br/><br/>"Building Products; Solving Problems"</h4><br/>
 
+<!--
 - 🔭 Currently building <a href="https://github.com/reenphygeorge/vPrompt">vPrompt</a><br/>
-
+-->
+  
 - 🌱 Currently learning about LLMs
 
 - 📬 Reach out: Feel free to <a href="mailto:reenphygeorge@gmail.com">mail me</a><br>
@@ -14,4 +16,4 @@
   - 🐧 Linux & Git
   - 💙 Golang & TypeScript
 
-- ⚡ Fun fact: I use Debian btw
+- ⚡ Fun fact: I use Linux btw
